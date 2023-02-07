@@ -13,11 +13,11 @@
   },
   "author": "",
   "bugs": {
-    "url": "https://github.com/wavesplatform/client-logs/issues"
+    "url": "https://github.com/Krosscoin/client-logs/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wavesplatform/client-logs"
+    "url": "https://github.com/Krosscoin/client-logs"
   },
   "license": "ISC",
   "dependencies": {},
